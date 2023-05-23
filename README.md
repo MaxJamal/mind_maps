@@ -1,1 +1,1 @@
-# mind_maps
+# My mind maps
